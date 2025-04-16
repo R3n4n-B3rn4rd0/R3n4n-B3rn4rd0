@@ -34,6 +34,8 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 
 ## Teste videos: </br>
 
+<!--
+
 - [Criando Infinite Scroll - React Native](https://www.youtube.com/watch?v=cRoBt6AZgjc)<br>
 - [Moldando Infinite Scroll - React Native](https://www.youtube.com/watch?v=cRoBt6AZgjc)<br>
 - [Terminando Infinite Scroll - React Native](https://www.youtube.com/watch?v=cRoBt6AZgjc)<br>
